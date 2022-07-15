@@ -1,5 +1,6 @@
 <h1 align="center">Karthikraghavan</h1>
 
+* I completed my Bachelpors in Mathematics in Karpagam Academy of Higher Education [Coimbatore,TN]
 * I am currently working in Cognizant Technology Solutions as an Analyst. 
 * I'm an aspiring Data Scientist
 * My favourite thing about my job is getting data and analysing in order to minimize the breaching metrics and find trends or identify patterns.
@@ -7,6 +8,8 @@
 
 ### I have technical experience and interest in:
 
+* Statistics
+* Linear Algebra
 * Machine Learning
 * Deep Learning
 * Natural Languages Processing
@@ -26,7 +29,7 @@
 <a href="https://anaconda.org/" target="_blank"> <img src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png" alt="Anaconda" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://intellipaat.com/blog/wp-content/uploads/2020/01/pycharm-new.jpg" alt="Pycharm" width="40" height="40"/> </a> 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
-
+<a> <img src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png" alt="Numpy" width="40" height="40"/> </a> 
 </p>
 
 
