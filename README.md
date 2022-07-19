@@ -49,4 +49,4 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/karthikraghavan-annamalai
+[linkedin]: https://www.linkedin.com/in/karthikraghavan-annamalai 
